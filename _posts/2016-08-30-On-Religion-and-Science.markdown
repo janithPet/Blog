@@ -4,7 +4,7 @@ title:  "On Religion and Science"
 date:   2016-08-30 01:59:21 +0100
 categories: jekyll update
 ---
-![Blog Picture]({{site_url}}/pictures/einstein1.jpeg)
+![Blog Picture]({{site_url}}/pictures/einstein1.jpg){: .center-image }
 
 Throughout my education, I’ve been trained and made biased towards the idea that science works with facts, and that religion works with beliefs. What is said by science, I was told, holds more ground towards being classed as reality than what is said by religion does. Religious talk and preachings are based on the belief held by pious individuals, and scientific fact is knowledge that has been tested, reviewed and confirmed by the smartest of the human race; they seemed so different, and mutually exclusive. I consider myself a scientist, and I believed this, but having worked with science for as long as I have (not very long relatively speaking) has however given me doubts about this.
 
