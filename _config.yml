@@ -31,6 +31,14 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+ lsi: false
+ safe: true
+ incremental: false
+ highlighter: rouge
+ gist:
+   noscript: false
+ kramdown:
+   math_engine: mathjax
 # sass:
 #   sass_dir: assests/css
 #   style: :nested
