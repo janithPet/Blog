@@ -37,7 +37,7 @@ $$x_{n+1} = f(x_n, u_n)$$
 
 This representation provides the model with information about how the control input in conjuction with its current state will affect the state to which it will go to; this is more realistic of a dynamic model.
 
-Secondly, the program now trains the model at each iteration. This might not be the *smartest* way to go about it, but to fully appreciate how well the learning of the model takes place, learning was implented in this manner; in later exercises, I will analyse how training in batches might be more appropriate.
+Secondly, the program now trains the model at each iteration. This might not be the *smartest* way to go about it, but to fully appreciate how well the learning of the model takes place, learning was implemented in this manner; in later exercises, I will analyse how training in batches might be more appropriate.
 
 When running the program, the user will be asked whether the program should reset the environment at each test. Carrying out a continuous simulation, where the current state will be used as the initial conditions of the next might be a more realistic simulation; however, it is worth comparing how effective the program is when run this way, and when the state is reset to a random position at every test. The latter should provide overlapping, well to a reasonable precision of course, data points, allowing for faster learning of those points. This comparison will be shown later in this text.
 
